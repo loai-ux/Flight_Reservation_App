@@ -1,0 +1,6 @@
+*.qrc linguist-documentation
+*.ui linguist-documentation
+*.spec linguist-generated
+build/* linguist-generated
+dist/* linguist-generated
+__pycache__/* linguist-generated
